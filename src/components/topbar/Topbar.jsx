@@ -9,7 +9,7 @@ export default function Topbar({menuOpen, setMenuOpen}){
                     <a href= "#intro" className='logo'>Hello Folks!</a>
                     <div className='itemContainer'>
                         <Person className='icon'/>
-                        <span>+91 1</span>
+                        <span>+91 </span>
                     </div>
                     
                     <div className='itemContainer'>
